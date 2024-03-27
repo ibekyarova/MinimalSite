@@ -1,0 +1,2 @@
+# MinimalSite
+One simple page 
